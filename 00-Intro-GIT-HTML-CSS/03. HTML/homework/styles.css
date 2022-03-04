@@ -1,23 +1,18 @@
-#divclass >h1 {
-    color:aqua;
-} 
+    
+    #divclass > h1 {color:aqua;}
+    
+    #thirdDiv>ul>li>img {
+        width: 400px;}
 
-#thirdDiv> ul > li > img {
-    width: 400px;
-}
-
-    #thirsdiv {
-    height: 600px; 
-    width : 500 px; 
-    background-color:blue;
-    padding: 50px;
-    border-color: black;
-    border-width: 6px;
-    border: solid 6px black
+    #thirdDiv {
+        height: 600px;
+        width: 500px;
+        background-color: blue;
+        padding: 50px;
+        border: solid 6px black
     }
     
-    
-    #spanid{
-        font - size: 18px;
+    #spanId {
+        font-size: 18px;
         margin: 50px;
     }
